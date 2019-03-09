@@ -1,0 +1,11 @@
+/Volumes/WD Passport/GitHub/Linked_List/bin/Debug/netcoreapp2.1/Linked_List.deps.json
+/Volumes/WD Passport/GitHub/Linked_List/bin/Debug/netcoreapp2.1/Linked_List.runtimeconfig.json
+/Volumes/WD Passport/GitHub/Linked_List/bin/Debug/netcoreapp2.1/Linked_List.runtimeconfig.dev.json
+/Volumes/WD Passport/GitHub/Linked_List/bin/Debug/netcoreapp2.1/Linked_List.dll
+/Volumes/WD Passport/GitHub/Linked_List/bin/Debug/netcoreapp2.1/Linked_List.pdb
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.csprojAssemblyReference.cache
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.csproj.CoreCompileInputs.cache
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.AssemblyInfoInputs.cache
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.AssemblyInfo.cs
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.dll
+/Volumes/WD Passport/GitHub/Linked_List/obj/Debug/netcoreapp2.1/Linked_List.pdb
