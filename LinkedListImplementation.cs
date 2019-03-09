@@ -6,41 +6,48 @@ namespace Linked_List
     {
         public Node next = null;
         public Object data = null;
-    }
 
-    class Program
-    {
-        private static Node LinkedList = new Node();
-        static void Main(string[] args)
+        public void InitializeList(Object value)
         {
-            for(int i = 0; i <= 5; i++)
-            {
-                AddToLinkedList(i);
-            }
-
-            Print(LinkedList);
+            this.data = value;
+            this.next = null;
         }
 
-        private static void AddToLinkedList(Object value)
+        public void Insert(Object value)
         {
             Node temp = new Node();
             temp.data = value;
-            Node current = LinkedList;
-            while(current.next != null)
+            Node current = this;
+            while (current.next != null)
             {
                 current = current.next;
             }
             current.next = temp;
         }
 
-        private static void Print(Node LinkedList)
+        public void Print()
         {
-            Node current = LinkedList;
-            do{
+            Node current = this;
+            do
+            {
                 Console.WriteLine("Data: " + current.data);
-                Console.WriteLine("Next: " + current.next);
                 current = current.next;
-            } while(current != null);
+            } while (current != null);
+        }
+
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Node LinkedList = new Node();
+            LinkedList.InitializeList(0);
+            for (int i = 1; i <= 100; i++)
+            {
+                LinkedList.Insert(i);
+            }
+            LinkedList.Print();
         }
     }
 }

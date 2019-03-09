@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/WD Passport/GitHub/Linked_List/Linked_List.csproj",
+      "projectUniqueName": "/Volumes/WD Passport/GitHub/LinkedList/Linked_List.csproj",
       "projectName": "Linked_List",
-      "projectPath": "/Volumes/WD Passport/GitHub/Linked_List/Linked_List.csproj",
+      "projectPath": "/Volumes/WD Passport/GitHub/LinkedList/Linked_List.csproj",
       "packagesPath": "/Users/kadewalter/.nuget/packages/",
-      "outputPath": "/Volumes/WD Passport/GitHub/Linked_List/obj/",
+      "outputPath": "/Volumes/WD Passport/GitHub/LinkedList/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
